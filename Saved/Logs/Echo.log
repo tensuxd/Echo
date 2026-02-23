@@ -9541,3 +9541,22 @@ Make sure '/Game/System/Inventory/InventorySystem/Widgets/WBP_ItemSlotMaster.WBP
 [2026.02.23-17.00.27:486][580]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 37206.609375
 [2026.02.23-17.00.27:680][603]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.23-17.00.27:680][603]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 37206.781250, Update Interval: 334.100769
+[2026.02.23-17.06.05:607][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2026.02.23-17.06.08:280][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2026.02.23-17.06.09:277][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2026.02.23-17.06.09:910][254]LogStall: Shutdown...
+[2026.02.23-17.06.09:910][254]LogStall: Shutdown complete.
+[2026.02.23-17.06.11:500][254]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-17.06.11:511][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-17.06.11:735][254]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-17.06.11:735][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-17.06.12:471][254]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-17.06.12:471][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-17.06.12:488][254]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-17.06.12:488][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-17.06.13:035][254]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-17.06.13:035][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-17.06.13:052][254]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2026.02.23-17.06.13:052][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.23-17.06.13:339][254]LogSlate: Window 'Echo - Unreal Editor' being destroyed
+[2026.02.23-17.06.13:379][254]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
