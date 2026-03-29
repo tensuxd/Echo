@@ -12,6 +12,15 @@
 				"D:/UE_5.5/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset",
 				"D:/UE_5.5/Engine/Plugins/Bridge/Content/MSPresets/M_MS_Glass_Material/M_MS_Glass_Material.uasset",
 				"D:/UE_5.5/Engine/Plugins/PCG/Content/SampleContent/Grammar/Materials/PCG_Glass.uasset",
+				"F:/prog/MyProject/Echo/Content/System/Inventory/SlotsSystem/Blueprints/ShowWBLib.uasset",
+				"F:/prog/MyProject/Echo/Content/Character/Blueprints/BP_Player.uasset",
+				"F:/prog/MyProject/Echo/Content/System/Inventory/SlotsSystem/Blueprints/PointInterface.uasset",
+				"F:/prog/MyProject/Echo/Content/System/Environment/QuoteAngel/QuoteAngel_BP.uasset",
+				"F:/prog/MyProject/Echo/Content/Maps/MainMenu/TEST_map.umap",
+				"F:/prog/MyProject/Echo/Content/System/Inventory/SlotsSystem/Blueprints/BPI_Interact.uasset",
+				"F:/prog/MyProject/Echo/Content/System/Inventory/SlotsSystem/Data/DT_Inventory.uasset",
+				"F:/prog/MyProject/Echo/Content/System/Inventory/SlotsSystem/Blueprints/BP_Pickup.uasset",
+				"F:/prog/MyProject/Echo/Content/GameMenus/EchoGMode.uasset",
 				"E:/Project/Echo/Content/Maps/EmptyMap/DesertLevels/DesertLandscape.umap"
 			]
 		}
